@@ -1,7 +1,3 @@
 <template>
-  <HelloWorld />
+  <bitwise-operations />
 </template>
-
-<script setup>
-  //
-</script>
